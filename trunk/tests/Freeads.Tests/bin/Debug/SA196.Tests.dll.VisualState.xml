@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1013]C:\dz\Source\Oglasi\tests\SA196.Tests\bin\Debug\SA196.Tests.dll</TopNode>
+  <SelectedNode>[0-1013]C:\dz\Source\Oglasi\tests\SA196.Tests\bin\Debug\SA196.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1013]C:\dz\Source\Oglasi\tests\SA196.Tests\bin\Debug\SA196.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1014]Tests" Expanded="true" />
+    <Node UniqueName="[0-1015]Tests.SA196" Expanded="true" />
+    <Node UniqueName="[0-1016]Tests.SA196.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1000]Tests.SA196.Controllers.RouteRegistrarTests" Expanded="true" />
+    <Node UniqueName="[0-1021]Tests.SA196.Core" Expanded="true" />
+    <Node UniqueName="[0-1009]Tests.SA196.Core.StaffMemberTests" Expanded="true" />
+    <Node UniqueName="[0-1019]Tests.SA196.Data" Expanded="true" />
+    <Node UniqueName="[0-1020]Tests.SA196.Data.NHibernateMaps" Expanded="true" />
+    <Node UniqueName="[0-1006]Tests.SA196.Data.NHibernateMaps.MappingIntegrationTests" Expanded="true" />
+    <Node UniqueName="[0-1004]Tests.SA196.Data.StaffMemberRepositoryTests" Expanded="true" />
+    <Node UniqueName="[0-1017]Tests.SA196.Web" Expanded="true" />
+    <Node UniqueName="[0-1018]Tests.SA196.Web.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1002]Tests.SA196.Web.Controllers.StaffMembersControllerTests" Expanded="true" />
+  </Nodes>
+</VisualState>
